@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  myrepo:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-02-03T06:30:03.269293327Z"
+    description: A Helm chart for Kubernetes
+    digest: a13dd33edad809e5e0a00cf1e825e49d40514d45f66af067f5219d108fce6cc6
+    name: myrepo
+    type: application
+    urls:
+    - myrepo-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-02-03T06:30:03.268829084Z"
